@@ -1,0 +1,1 @@
+Kasutan GitHubi skriptimiseks ja programeerimiseks. Saan kasutada seda, et paremini programeerimist õppida.
