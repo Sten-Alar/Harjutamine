@@ -1,1 +1,2 @@
 GitHub On faili ja codi jagamis webisait. Kus saab teiste inimestega koostööd teha.
+Asutati 10. aprilil 2008. Asutasid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon.
